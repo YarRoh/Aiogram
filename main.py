@@ -1,0 +1,2 @@
+print("All rights reserved")
+
